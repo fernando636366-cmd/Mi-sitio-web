@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mejores Películas 2026</title>
+    </head>
+    <body>
+        <header>
+            <h1>Top Cine & TV: Lo Mejor del Año 2026</h1>
+        </header>
+        <main>
+
+            <!--Introduccion-->
+            <p>
+                En esta página web se presenta un recorrido detallado por los mejores estrenos cinematográficos 
+                del año 2026, incluyendo un material audiovisual de análisis, el ranking oficial de las diez películas.
+            </p>
+            <section>
+                <h2>Las Mejores Películas del Momento</h2>
+                <h3>Top 10: Los Mejores Estrenos del Año</h3>
+                <p>
+                    En este material audiovisual se repasa lo mejor que va dejando el año en la gran pantalla, 
+                    destacando una selección variada que abarca desde thrillers de acción y espionaje, 
+                    comedias y enredos, hasta dramas bélicos y adaptaciones imperdibles.
+                </p>
+
+                <!--Reproductor de video embebido de YouTube-->
+                <iframe 
+                width="560" height="315"
+                src="https://youtube.com/embed/kkY1uMqfzUQ?autoplay=1&mute=1"
+                title="Top 10 Canciones de Linkin Park - WatchMojo Español"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+                        gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen>
+                </iframe>
+            </section>
+
+            <section>
+                <h2>Ranking Oficial del Top 10</h2>
+                <h3>Listado de Películas Destacadas</h3>
+                <ol type="1" reversed>
+                    <li>En la zona gris</li>
+                    <li>Obsesión</li>
+                    <li>Mike, Nick y Nicki</li>
+                    <li>Mar abierto</li>
+                    <li>La invitación</li>
+                    <li>Citizen vigilante</li>
+                    <li>Mensajes de voz para Isabel</li>
+                    <li>Evil Dead en llamas</li>
+                    <li>La odisea</li>
+                    <li>Bajo Presión</li>
+                </ol>
+            </section>
+
+            <!--Galeria de imagenes-->
+            <section>
+                <h2>Galería de Estrenos</h2>
+                <h3>Imágenes de Referencia</h3>
+                <p>
+                    A continuación se muestran algunas imágenes representativas de las 
+                    producciones destacadas del año.
+                </p>
+                <img src="https://images.justwatch.com/poster/347195563/s718/bajo-presion-2026.jpg"
+                        alt="Drama bélico sobre la tensión psicológica previa al desembarco de Normandía"
+                        width="300"
+                        height="450"
+                        title="Película: Bajo Presión (2026)">
+                
+                <img src="https://es.web.img3.acsta.net/img/1a/23/1a238e79ea26da69c2ff751c232c60e3.png"
+                        alt="Póster oficial de la película La odisea dirigida por Christopher Nolan, mostrando 
+                        a un guerrero con capa y espada enfrentando a gigantes acorazados en un bosque nevado"
+                        width="300"
+                        height="450"
+                        title="La odisea - Póster Oficial (2026)">
+
+                <img src="https://www.sonypictures.com.mx/sites/mexico/files/2026-08/Evil-Dead-Burn_Mx_1400-X-2100-%28Vertical%29.jpg"
+                        alt="Afiche o escena de terror de Evil Dead en llamas mostrando una cabaña poseída envuelta 
+                        en fuego y elementos de horror"
+                        width="300"
+                        height="450"
+                        title="Evil Dead en llamas - Terror y Fuego (2026)">
+            </section>
+        </main>
+
+        <!--Pie de pagina con los creditos-->
+        <hr>       <!--solo es una linea horizontal-->
+        <footer>
+            <p>
+                Trabajo desarrollado para la materia de Programación Web. <br>
+                Elaborado por: Fernando Roberto Hidalgo Muñoz | Paralelo: 3A | Desarrollo de Software
+            </p>
+        </footer>
+
+    </body>
+</html>
